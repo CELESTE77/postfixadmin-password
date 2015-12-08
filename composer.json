@@ -1,0 +1,25 @@
+{
+    "name": "CELESTE77/postfixadmin-password",
+    "type": "library",
+    "description": "Postfixadmin functions to handle password encryption",
+    "keywords": ["postfix", "postfixadmin", "password", "encryption", "crypt"],
+    "homepage": "https://github.com/CELESTE77/postfixadmin-password",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/CELESTE77/postfixadmin-password.git"
+        }
+    ],
+    "license": "LGPL v2.1",
+    "authors": [
+        {
+            "name": "Thibault Taillandier",
+            "email": "rd@celeste.fr",
+            "homepage": "http://www.celeste.fr",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
