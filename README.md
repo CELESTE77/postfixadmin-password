@@ -39,7 +39,7 @@ Usage
 
 ```php
 // Include the library
-require_once "vendor/CELESTE77/postfixadmin-password/postfixadmin-password.php";
+require_once "vendor/CELESTE77/postfixadmin-password/src/postfixadmin-password.php";
 
 // Override the $CONF parameters with the paramaters used
 // in YOUR current installation of Postfix Admin in postfixadmin/config.inc.php file
